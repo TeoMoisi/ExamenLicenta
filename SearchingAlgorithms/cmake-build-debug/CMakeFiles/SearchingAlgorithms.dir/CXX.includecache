@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/teofanamoisi/Desktop/ExamenLicenta/SearchingAlgorithms/fraction.h
+iostream
+-
+
+/Users/teofanamoisi/Desktop/ExamenLicenta/SearchingAlgorithms/fraction_write.h
+fraction.h
+/Users/teofanamoisi/Desktop/ExamenLicenta/SearchingAlgorithms/fraction.h
+
+/Users/teofanamoisi/Desktop/ExamenLicenta/SearchingAlgorithms/main.cpp
+fraction.h
+/Users/teofanamoisi/Desktop/ExamenLicenta/SearchingAlgorithms/fraction.h
+fraction_write.h
+/Users/teofanamoisi/Desktop/ExamenLicenta/SearchingAlgorithms/fraction_write.h
+
